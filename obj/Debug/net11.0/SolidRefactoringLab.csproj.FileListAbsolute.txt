@@ -1,0 +1,15 @@
+C:\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.deps.json
+C:\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.runtimeconfig.json
+C:\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.runtimeconfig.dev.json
+C:\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.dll
+C:\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.pdb
+C:\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.AssemblyInfoInputs.cache
+C:\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.AssemblyInfo.cs
+C:\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.csproj.CoreCompileInputs.cache
+C:\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.dll
+C:\SolidRefactoringLab\obj\Debug\net11.0\refint\SolidRefactoringLab.dll
+C:\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.pdb
+C:\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.genruntimeconfig.cache
+C:\SolidRefactoringLab\obj\Debug\net11.0\ref\SolidRefactoringLab.dll
+C:\SolidRefactoringLab\obj\Debug\net11.0\SolidRef.F1B170A9.Up2Date
